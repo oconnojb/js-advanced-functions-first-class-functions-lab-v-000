@@ -1,1 +1,1 @@
-const returnFirstTwoDrivers = function (drivest) {]}
+const returnFirstTwoDrivers = function (drivers) { return drivers.slice(0,2)}
